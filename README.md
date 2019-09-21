@@ -3,6 +3,14 @@ Script/Comando Linux para baixar todas braches de um projetos – Shell Script
 
 ## Instalação:
 
+Clone o projeto allBranches:
+```
+git clone https://github.com/marceloviana/allBranches.git
+```
+Navegue para dentro do projeto:
+```
+cd allBranches
+```
 Crie um *Alias* para disponibilizar o comando no sistema:
 ```
 sudo ln -s /home/USUARIO/allBranches.sh /usr/bin/allBranches
@@ -13,7 +21,7 @@ Ou se preferir, simplismente copie o arquivo allBranches.sh para /usr/bin/ (sem 
 sudo cp -f allBranches.sh /usr/bin/allBranches
 sudo chmod +x /usr/bin/allBranches
 ```
-Agora é só chamar o comando e informar o diretório do projeto Git para baixar todas as branches.
+Agora é só chamar o comando e informar o diretório do projeto Git que deseja baixar todas as branches.
 
 **Utilização:**
 Exemplo 1:
