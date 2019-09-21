@@ -19,11 +19,17 @@ sudo ln -sf $(pwd)/allBranches.sh /usr/bin/allBranches
 Ou se preferir, simplismente copie o arquivo allBranches.sh para /usr/bin/ (sem utilizar o .sh)
 ```
 sudo cp -f allBranches.sh /usr/bin/allBranches
+```
+Dê permissão de execução do script:
+```
 sudo chmod +x /usr/bin/allBranches
 ```
-Agora é só chamar o comando e informar o diretório do projeto Git que deseja baixar todas as branches.
+
+Pronto! Agora é só chamar o comando e informar o diretório do projeto Git que deseja baixar todas as branches.
+
 
 **Utilização:**
+
 Exemplo 1:
 ```
 ~$ allBranches /var/www/meuprojeto1/
