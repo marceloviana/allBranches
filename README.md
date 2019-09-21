@@ -13,7 +13,7 @@ cd allBranches
 ```
 Crie um *Alias* para disponibilizar o comando no sistema:
 ```
-sudo ln -s /home/USUARIO/allBranches.sh /usr/bin/allBranches
+sudo ln -sf $(pwd)/allBranches.sh /usr/bin/allBranches
 
 ```
 Ou se preferir, simplismente copie o arquivo allBranches.sh para /usr/bin/ (sem utilizar o .sh)
