@@ -1,5 +1,5 @@
 # allBranches
-Script/Comando Linux para baixar todas braches de um projetos – Shell Script
+Script para baixar todas braches de um projetos – Shell Script
 
 ## Instalação:
 
