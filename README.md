@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.boletobancario.com/boletofacil/integration/button/checkout.html?code=06CE7305A1D46E48)
+
 # allBranches
 Script para baixar todas braches de um projetos – Shell Script
 
