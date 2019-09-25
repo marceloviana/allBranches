@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.boletobancario.com/boletofacil/integration/button/checkout.html?code=06CE7305A1D46E48)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=marceloviana%40infsite.org&item_name=Doa%C3%A7%C3%A3o&currency_code=BRL&source=url)
 
 # allBranches
 Script para baixar todas braches de um projetos – Shell Script
