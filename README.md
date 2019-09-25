@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=marceloviana%40infsite.org&item_name=Doa%C3%A7%C3%A3o&currency_code=BRL&source=url)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=marceloviana%40infsite.org&item_name=Doar&currency_code=BRL&source=url)
 
 # allBranches
 Script para baixar todas braches de um projetos – Shell Script
