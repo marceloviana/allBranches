@@ -7,7 +7,7 @@ Script para baixar todas braches de um projeto Git / Script to download all brac
 ## Instalação / Installation:
 
 ```
-~$ sudo git clone https://github.com/marceloviana/allBranches.git && sudo cp -rfv allBranches/allBranches.sh /usr/bin/allBranches && sudo chmod +x /usr/bin/allBranches
+sudo git clone https://github.com/marceloviana/allBranches.git && sudo cp -rfv allBranches/allBranches.sh /usr/bin/allBranches && sudo chmod +x /usr/bin/allBranches && sudo rm -rf allBranches
 ```
 Pronto! Agora é só chamar o comando (allBranches) e informar o diretório do projeto Git que deseja baixar todas as branches
 
