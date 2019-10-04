@@ -3,9 +3,9 @@
 # allBranches
 Script para baixar todas braches de um projeto Git / Script to download all braches from a Git project
 
+
 ## Instalação / Installation:
 
-Clone e intalação do allBranches / Clone and install allBranches
 ```
 ~$ sudo git clone https://github.com/marceloviana/allBranches.git && sudo cp -rfv allBranches/allBranches.sh /usr/bin/allBranches && sudo chmod +x /usr/bin/allBranches
 ```
@@ -13,8 +13,8 @@ Pronto! Agora é só chamar o comando (allBranches) e informar o diretório do p
 
 (Ready! Now just call the command (allBranches) and tell the Git project directory that you want to download all branches)
 
-**Utilização** / **Use**
 
+**Utilização** / **Use**
 
 Example 1:
 ```
