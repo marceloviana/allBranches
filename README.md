@@ -2,49 +2,35 @@
 
 # allBranches
 Script para baixar todas braches de um projeto Git – Shell Script
+Script to download all braches from a Git project - Shell Script
 
-## Instalação:
+## Instalação / Installation:
 
-Clone o projeto allBranches:
+Clone e intalação do allBranches:
+Clone and install allBranches:
 ```
-git clone https://github.com/marceloviana/allBranches.git
+~$ sudo git clone https://github.com/marceloviana/allBranches.git && sudo cp -rfv allBranches/allBranches.sh /usr/bin/allBranches && sudo chmod +x /usr/bin/allBranches
 ```
-Navegue para dentro do projeto:
-```
-cd allBranches
-```
-Crie um *Alias* para disponibilizar o comando no sistema:
-```
-sudo ln -sf $(pwd)/allBranches.sh /usr/bin/allBranches
-
-```
-Ou se preferir, simplismente copie o arquivo allBranches.sh para /usr/bin/ (sem utilizar o .sh)
-```
-sudo cp -f allBranches.sh /usr/bin/allBranches
-```
-Dê permissão de execução do script:
-```
-sudo chmod +x /usr/bin/allBranches
-```
-
-Pronto! Agora é só chamar o comando e informar o diretório do projeto Git que deseja baixar todas as branches.
-
+Pronto! Agora é só chamar o comando (allBranches) e informar o diretório do projeto Git que deseja baixar todas as branches.
+Ready! Now just call the command (allBranches) and tell the Git project directory that you want to download all branches.
 
 **Utilização:**
+**Use:**
 
-Exemplo 1:
+
+Example 1:
 ```
-~$ allBranches /var/www/meuprojeto1/
+~$ allBranches /var/www/myproject1/
 ```
-Exemplo 2:
+Example 2:
 ```
-~$ allBranches /var/www/meuprojeto2/
+~$ allBranches /var/www/myproject2/
 ```
-Exemplo 3 (se já estiver dentro do diretório do projeto):
+Example 3 (se já estiver dentro do diretório do projeto / if already inside the project directory):
 ```
 ~$ allBranches ./
 ```
-Ou
+or
 ```
 ~$ allBranches .
 ```
