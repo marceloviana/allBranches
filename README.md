@@ -14,6 +14,7 @@ Pronto! Agora é só chamar o comando (allBranches) e informar o diretório do p
 (Ready! Now just call the command (allBranches) and tell the Git project directory that you want to download all branches)
 
 
+
 **Utilização** / **Use**
 
 Example 1:
