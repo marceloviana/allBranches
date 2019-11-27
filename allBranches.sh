@@ -20,7 +20,7 @@ do
       if [ $? -eq 0 ];then
         echo "$i, OK!"
       else
-        echo "Algo deu errado ao baixar $i - Isso normalmente ocorre se esta branch já existir no seu local."
+        echo "Algo deu errado ao baixar $i - Isso normalmente ocorre se esta branch já existir no seu local ou sem permissão de escrita no diretório."
       fi
     #fi
  
